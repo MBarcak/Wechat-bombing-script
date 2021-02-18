@@ -10,6 +10,6 @@
 
 5.输入轰炸次数和间隔时间，之后脚本自动运行完成轰炸。
 
-**详情访问我的blog：www.hackerhome.top**
+**详情访问我的blog：https://hackerhome.top/index.php/archives/3/**
 
 by:岁月年华
