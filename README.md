@@ -1,4 +1,6 @@
 # 微信轰炸脚本
+## Python版本
+本脚本基于Python3.7编写，电脑中需要安装Python3.7
 ## 使用说明
 1.运行前确定电脑中是否存在itchat库。如果运行报错，则使用`pip install itchat`安装。
 
